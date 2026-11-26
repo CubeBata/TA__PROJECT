@@ -1,0 +1,26 @@
+[
+{
+  "directory": "E:/OWN/College/3-cource/OPI/2026.11.03/Manager_of_passwords/build",
+  "command": "C:/w64devkit/bin/g++.exe  @CMakeFiles/Manager_of_password.dir/includes_CXX.rsp -g -o CMakeFiles/Manager_of_password.dir/src/main.cpp.obj -c E:/OWN/College/3-cource/OPI/2026.11.03/Manager_of_passwords/src/main.cpp",
+  "file": "E:/OWN/College/3-cource/OPI/2026.11.03/Manager_of_passwords/src/main.cpp",
+  "output": "CMakeFiles/Manager_of_password.dir/src/main.cpp.obj"
+},
+{
+  "directory": "E:/OWN/College/3-cource/OPI/2026.11.03/Manager_of_passwords/build/lib",
+  "command": "C:/w64devkit/bin/g++.exe  @CMakeFiles/Manager_of_password_lib.dir/includes_CXX.rsp -g -o CMakeFiles/Manager_of_password_lib.dir/src/Account.cpp.obj -c E:/OWN/College/3-cource/OPI/2026.11.03/Manager_of_passwords/lib/src/Account.cpp",
+  "file": "E:/OWN/College/3-cource/OPI/2026.11.03/Manager_of_passwords/lib/src/Account.cpp",
+  "output": "lib/CMakeFiles/Manager_of_password_lib.dir/src/Account.cpp.obj"
+},
+{
+  "directory": "E:/OWN/College/3-cource/OPI/2026.11.03/Manager_of_passwords/build/lib",
+  "command": "C:/w64devkit/bin/g++.exe  @CMakeFiles/Manager_of_password_lib.dir/includes_CXX.rsp -g -o CMakeFiles/Manager_of_password_lib.dir/src/Archive.cpp.obj -c E:/OWN/College/3-cource/OPI/2026.11.03/Manager_of_passwords/lib/src/Archive.cpp",
+  "file": "E:/OWN/College/3-cource/OPI/2026.11.03/Manager_of_passwords/lib/src/Archive.cpp",
+  "output": "lib/CMakeFiles/Manager_of_password_lib.dir/src/Archive.cpp.obj"
+},
+{
+  "directory": "E:/OWN/College/3-cource/OPI/2026.11.03/Manager_of_passwords/build/lib",
+  "command": "C:/w64devkit/bin/g++.exe  @CMakeFiles/Manager_of_password_lib.dir/includes_CXX.rsp -g -o CMakeFiles/Manager_of_password_lib.dir/src/Manager_Of_Passwords.cpp.obj -c E:/OWN/College/3-cource/OPI/2026.11.03/Manager_of_passwords/lib/src/Manager_Of_Passwords.cpp",
+  "file": "E:/OWN/College/3-cource/OPI/2026.11.03/Manager_of_passwords/lib/src/Manager_Of_Passwords.cpp",
+  "output": "lib/CMakeFiles/Manager_of_password_lib.dir/src/Manager_Of_Passwords.cpp.obj"
+}
+]
