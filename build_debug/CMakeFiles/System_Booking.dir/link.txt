@@ -1,0 +1,3 @@
+"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\System_Booking.dir/objects.a
+C:\w64devkit\bin\ar.exe qc CMakeFiles\System_Booking.dir/objects.a @CMakeFiles\System_Booking.dir\objects1.rsp
+C:\w64devkit\bin\c++.exe -g -Wl,--whole-archive CMakeFiles\System_Booking.dir/objects.a -Wl,--no-whole-archive -o System_Booking.exe -Wl,--out-implib,libSystem_Booking.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\System_Booking.dir\linkLibs.rsp

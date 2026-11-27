@@ -57,10 +57,10 @@ RM = "C:/Program Files/CMake/bin/cmake.exe" -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = E:/OWN/College/3-cource/OPI/2026.11.03/Manager_of_passwords
+CMAKE_SOURCE_DIR = E:/OWN/College/3-cource/TA/Practic/Project_TA
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = E:/OWN/College/3-cource/OPI/2026.11.03/Manager_of_passwords/build
+CMAKE_BINARY_DIR = E:/OWN/College/3-cource/TA/Practic/Project_TA/build
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -87,9 +87,9 @@ rebuild_cache/fast: rebuild_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start E:/OWN/College/3-cource/OPI/2026.11.03/Manager_of_passwords/build/CMakeFiles E:/OWN/College/3-cource/OPI/2026.11.03/Manager_of_passwords/build//CMakeFiles/progress.marks
+	$(CMAKE_COMMAND) -E cmake_progress_start E:/OWN/College/3-cource/TA/Practic/Project_TA/build/CMakeFiles E:/OWN/College/3-cource/TA/Practic/Project_TA/build//CMakeFiles/progress.marks
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start E:/OWN/College/3-cource/OPI/2026.11.03/Manager_of_passwords/build/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start E:/OWN/College/3-cource/TA/Practic/Project_TA/build/CMakeFiles 0
 .PHONY : all
 
 # The main clean target
@@ -117,37 +117,37 @@ depend:
 .PHONY : depend
 
 #=============================================================================
-# Target rules for targets named Manager_of_password
+# Target rules for targets named System_Booking
 
 # Build rule for target.
-Manager_of_password: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 Manager_of_password
-.PHONY : Manager_of_password
+System_Booking: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 System_Booking
+.PHONY : System_Booking
 
 # fast build rule for target.
-Manager_of_password/fast:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Manager_of_password.dir/build.make CMakeFiles/Manager_of_password.dir/build
-.PHONY : Manager_of_password/fast
+System_Booking/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/System_Booking.dir/build.make CMakeFiles/System_Booking.dir/build
+.PHONY : System_Booking/fast
 
 #=============================================================================
-# Target rules for targets named Manager_of_password_lib
+# Target rules for targets named System_Booking_lib
 
 # Build rule for target.
-Manager_of_password_lib: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 Manager_of_password_lib
-.PHONY : Manager_of_password_lib
+System_Booking_lib: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 System_Booking_lib
+.PHONY : System_Booking_lib
 
 # fast build rule for target.
-Manager_of_password_lib/fast:
-	$(MAKE) $(MAKESILENT) -f lib/CMakeFiles/Manager_of_password_lib.dir/build.make lib/CMakeFiles/Manager_of_password_lib.dir/build
-.PHONY : Manager_of_password_lib/fast
+System_Booking_lib/fast:
+	$(MAKE) $(MAKESILENT) -f lib/CMakeFiles/System_Booking_lib.dir/build.make lib/CMakeFiles/System_Booking_lib.dir/build
+.PHONY : System_Booking_lib/fast
 
 src/main.obj: src/main.cpp.obj
 .PHONY : src/main.obj
 
 # target to build an object file
 src/main.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Manager_of_password.dir/build.make CMakeFiles/Manager_of_password.dir/src/main.cpp.obj
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/System_Booking.dir/build.make CMakeFiles/System_Booking.dir/src/main.cpp.obj
 .PHONY : src/main.cpp.obj
 
 src/main.i: src/main.cpp.i
@@ -155,7 +155,7 @@ src/main.i: src/main.cpp.i
 
 # target to preprocess a source file
 src/main.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Manager_of_password.dir/build.make CMakeFiles/Manager_of_password.dir/src/main.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/System_Booking.dir/build.make CMakeFiles/System_Booking.dir/src/main.cpp.i
 .PHONY : src/main.cpp.i
 
 src/main.s: src/main.cpp.s
@@ -163,7 +163,7 @@ src/main.s: src/main.cpp.s
 
 # target to generate assembly for a file
 src/main.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Manager_of_password.dir/build.make CMakeFiles/Manager_of_password.dir/src/main.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/System_Booking.dir/build.make CMakeFiles/System_Booking.dir/src/main.cpp.s
 .PHONY : src/main.cpp.s
 
 # Help Target
@@ -174,8 +174,8 @@ help:
 	@echo "... depend"
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
-	@echo "... Manager_of_password"
-	@echo "... Manager_of_password_lib"
+	@echo "... System_Booking"
+	@echo "... System_Booking_lib"
 	@echo "... src/main.obj"
 	@echo "... src/main.i"
 	@echo "... src/main.s"

@@ -1,0 +1,2 @@
+C:\w64devkit\bin\ar.exe qc libSystem_Booking_lib.a CMakeFiles/System_Booking_lib.dir/src/Book.cpp.obj CMakeFiles/System_Booking_lib.dir/src/Client.cpp.obj CMakeFiles/System_Booking_lib.dir/src/DataBase.cpp.obj CMakeFiles/System_Booking_lib.dir/src/Libraries.cpp.obj
+C:\w64devkit\bin\ranlib.exe libSystem_Booking_lib.a

@@ -39,12 +39,12 @@ set(CMAKE_MAKEFILE_DEPENDS
   "C:/Program Files/CMake/share/cmake-3.31/Modules/Platform/Windows-windres.cmake"
   "C:/Program Files/CMake/share/cmake-3.31/Modules/Platform/Windows.cmake"
   "C:/Program Files/CMake/share/cmake-3.31/Modules/Platform/WindowsPaths.cmake"
-  "E:/OWN/College/3-cource/OPI/2026.11.03/Manager_of_passwords/CMakeLists.txt"
+  "E:/OWN/College/3-cource/TA/Practic/Project_TA/CMakeLists.txt"
   "CMakeFiles/3.31.12/CMakeCCompiler.cmake"
   "CMakeFiles/3.31.12/CMakeCXXCompiler.cmake"
   "CMakeFiles/3.31.12/CMakeRCCompiler.cmake"
   "CMakeFiles/3.31.12/CMakeSystem.cmake"
-  "E:/OWN/College/3-cource/OPI/2026.11.03/Manager_of_passwords/lib/CMakeLists.txt"
+  "E:/OWN/College/3-cource/TA/Practic/Project_TA/lib/CMakeLists.txt"
   )
 
 # The corresponding makefile is:
@@ -61,6 +61,6 @@ set(CMAKE_MAKEFILE_PRODUCTS
 
 # Dependency information for all targets:
 set(CMAKE_DEPEND_INFO_FILES
-  "CMakeFiles/Manager_of_password.dir/DependInfo.cmake"
-  "lib/CMakeFiles/Manager_of_password_lib.dir/DependInfo.cmake"
+  "CMakeFiles/System_Booking.dir/DependInfo.cmake"
+  "lib/CMakeFiles/System_Booking_lib.dir/DependInfo.cmake"
   )

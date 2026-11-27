@@ -110,7 +110,7 @@ CMAKE_FIND_PACKAGE_REDIRECTS_DIR:STATIC=E:/OWN/College/3-cource/TA/Practic/Proje
 CMAKE_GNUtoMS:BOOL=OFF
 
 //Install path prefix, prepended onto install directories.
-CMAKE_INSTALL_PREFIX:PATH=C:/Program Files (x86)/Manager_of_password
+CMAKE_INSTALL_PREFIX:PATH=C:/Program Files (x86)/System_Booking
 
 //Path to a program.
 CMAKE_LINKER:FILEPATH=C:/w64devkit/bin/ld.exe
@@ -154,7 +154,7 @@ CMAKE_PROJECT_DESCRIPTION:STATIC=
 CMAKE_PROJECT_HOMEPAGE_URL:STATIC=
 
 //Value Computed by CMake
-CMAKE_PROJECT_NAME:STATIC=Manager_of_password
+CMAKE_PROJECT_NAME:STATIC=System_Booking
 
 //Value Computed by CMake
 CMAKE_PROJECT_VERSION:STATIC=0.0.0
@@ -255,22 +255,22 @@ CMAKE_TAPI:FILEPATH=CMAKE_TAPI-NOTFOUND
 CMAKE_VERBOSE_MAKEFILE:BOOL=FALSE
 
 //Value Computed by CMake
-Manager_of_password_BINARY_DIR:STATIC=E:/OWN/College/3-cource/TA/Practic/Project_TA/build_release
+System_Booking_BINARY_DIR:STATIC=E:/OWN/College/3-cource/TA/Practic/Project_TA/build_release
 
 //Value Computed by CMake
-Manager_of_password_IS_TOP_LEVEL:STATIC=ON
+System_Booking_IS_TOP_LEVEL:STATIC=ON
 
 //Value Computed by CMake
-Manager_of_password_SOURCE_DIR:STATIC=E:/OWN/College/3-cource/TA/Practic/Project_TA
+System_Booking_SOURCE_DIR:STATIC=E:/OWN/College/3-cource/TA/Practic/Project_TA
 
 //Value Computed by CMake
-Manager_of_password_lib_BINARY_DIR:STATIC=E:/OWN/College/3-cource/TA/Practic/Project_TA/build_release/lib
+System_Booking_lib_BINARY_DIR:STATIC=E:/OWN/College/3-cource/TA/Practic/Project_TA/build_release/lib
 
 //Value Computed by CMake
-Manager_of_password_lib_IS_TOP_LEVEL:STATIC=OFF
+System_Booking_lib_IS_TOP_LEVEL:STATIC=OFF
 
 //Value Computed by CMake
-Manager_of_password_lib_SOURCE_DIR:STATIC=E:/OWN/College/3-cource/TA/Practic/Project_TA/lib
+System_Booking_lib_SOURCE_DIR:STATIC=E:/OWN/College/3-cource/TA/Practic/Project_TA/lib
 
 
 ########################

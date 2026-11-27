@@ -1,7 +1,4 @@
-#include <iostream>
-#include <string>
-#include <vector>
-#include <map>
-#include <set>
-#include <list>
-#include <algorithm>
+#pragma once
+#include <Libraries.h>
+#include <Client.h>
+#include <DataBase.h>

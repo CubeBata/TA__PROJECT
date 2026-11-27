@@ -57,10 +57,10 @@ RM = "C:/Program Files/CMake/bin/cmake.exe" -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = E:/OWN/College/3-cource/OPI/2026.11.03/Manager_of_passwords
+CMAKE_SOURCE_DIR = E:/OWN/College/3-cource/TA/Practic/Project_TA
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = E:/OWN/College/3-cource/OPI/2026.11.03/Manager_of_passwords/build
+CMAKE_BINARY_DIR = E:/OWN/College/3-cource/TA/Practic/Project_TA/build
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -87,14 +87,14 @@ rebuild_cache/fast: rebuild_cache
 
 # The main all target
 all: cmake_check_build_system
-	cd E:/OWN/College/3-cource/OPI/2026.11.03/Manager_of_passwords/build && $(CMAKE_COMMAND) -E cmake_progress_start E:/OWN/College/3-cource/OPI/2026.11.03/Manager_of_passwords/build/CMakeFiles E:/OWN/College/3-cource/OPI/2026.11.03/Manager_of_passwords/build/lib//CMakeFiles/progress.marks
-	cd E:/OWN/College/3-cource/OPI/2026.11.03/Manager_of_passwords/build && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 lib/all
-	$(CMAKE_COMMAND) -E cmake_progress_start E:/OWN/College/3-cource/OPI/2026.11.03/Manager_of_passwords/build/CMakeFiles 0
+	cd E:/OWN/College/3-cource/TA/Practic/Project_TA/build && $(CMAKE_COMMAND) -E cmake_progress_start E:/OWN/College/3-cource/TA/Practic/Project_TA/build/CMakeFiles E:/OWN/College/3-cource/TA/Practic/Project_TA/build/lib//CMakeFiles/progress.marks
+	cd E:/OWN/College/3-cource/TA/Practic/Project_TA/build && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 lib/all
+	$(CMAKE_COMMAND) -E cmake_progress_start E:/OWN/College/3-cource/TA/Practic/Project_TA/build/CMakeFiles 0
 .PHONY : all
 
 # The main clean target
 clean:
-	cd E:/OWN/College/3-cource/OPI/2026.11.03/Manager_of_passwords/build && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 lib/clean
+	cd E:/OWN/College/3-cource/TA/Practic/Project_TA/build && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 lib/clean
 .PHONY : clean
 
 # The main clean target
@@ -103,104 +103,128 @@ clean/fast: clean
 
 # Prepare targets for installation.
 preinstall: all
-	cd E:/OWN/College/3-cource/OPI/2026.11.03/Manager_of_passwords/build && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 lib/preinstall
+	cd E:/OWN/College/3-cource/TA/Practic/Project_TA/build && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 lib/preinstall
 .PHONY : preinstall
 
 # Prepare targets for installation.
 preinstall/fast:
-	cd E:/OWN/College/3-cource/OPI/2026.11.03/Manager_of_passwords/build && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 lib/preinstall
+	cd E:/OWN/College/3-cource/TA/Practic/Project_TA/build && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 lib/preinstall
 .PHONY : preinstall/fast
 
 # clear depends
 depend:
-	cd E:/OWN/College/3-cource/OPI/2026.11.03/Manager_of_passwords/build && $(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 1
+	cd E:/OWN/College/3-cource/TA/Practic/Project_TA/build && $(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 1
 .PHONY : depend
 
 # Convenience name for target.
-lib/CMakeFiles/Manager_of_password_lib.dir/rule:
-	cd E:/OWN/College/3-cource/OPI/2026.11.03/Manager_of_passwords/build && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 lib/CMakeFiles/Manager_of_password_lib.dir/rule
-.PHONY : lib/CMakeFiles/Manager_of_password_lib.dir/rule
+lib/CMakeFiles/System_Booking_lib.dir/rule:
+	cd E:/OWN/College/3-cource/TA/Practic/Project_TA/build && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 lib/CMakeFiles/System_Booking_lib.dir/rule
+.PHONY : lib/CMakeFiles/System_Booking_lib.dir/rule
 
 # Convenience name for target.
-Manager_of_password_lib: lib/CMakeFiles/Manager_of_password_lib.dir/rule
-.PHONY : Manager_of_password_lib
+System_Booking_lib: lib/CMakeFiles/System_Booking_lib.dir/rule
+.PHONY : System_Booking_lib
 
 # fast build rule for target.
-Manager_of_password_lib/fast:
-	cd E:/OWN/College/3-cource/OPI/2026.11.03/Manager_of_passwords/build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/Manager_of_password_lib.dir/build.make lib/CMakeFiles/Manager_of_password_lib.dir/build
-.PHONY : Manager_of_password_lib/fast
+System_Booking_lib/fast:
+	cd E:/OWN/College/3-cource/TA/Practic/Project_TA/build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/System_Booking_lib.dir/build.make lib/CMakeFiles/System_Booking_lib.dir/build
+.PHONY : System_Booking_lib/fast
 
-src/Account.obj: src/Account.cpp.obj
-.PHONY : src/Account.obj
-
-# target to build an object file
-src/Account.cpp.obj:
-	cd E:/OWN/College/3-cource/OPI/2026.11.03/Manager_of_passwords/build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/Manager_of_password_lib.dir/build.make lib/CMakeFiles/Manager_of_password_lib.dir/src/Account.cpp.obj
-.PHONY : src/Account.cpp.obj
-
-src/Account.i: src/Account.cpp.i
-.PHONY : src/Account.i
-
-# target to preprocess a source file
-src/Account.cpp.i:
-	cd E:/OWN/College/3-cource/OPI/2026.11.03/Manager_of_passwords/build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/Manager_of_password_lib.dir/build.make lib/CMakeFiles/Manager_of_password_lib.dir/src/Account.cpp.i
-.PHONY : src/Account.cpp.i
-
-src/Account.s: src/Account.cpp.s
-.PHONY : src/Account.s
-
-# target to generate assembly for a file
-src/Account.cpp.s:
-	cd E:/OWN/College/3-cource/OPI/2026.11.03/Manager_of_passwords/build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/Manager_of_password_lib.dir/build.make lib/CMakeFiles/Manager_of_password_lib.dir/src/Account.cpp.s
-.PHONY : src/Account.cpp.s
-
-src/Archive.obj: src/Archive.cpp.obj
-.PHONY : src/Archive.obj
+src/Book.obj: src/Book.cpp.obj
+.PHONY : src/Book.obj
 
 # target to build an object file
-src/Archive.cpp.obj:
-	cd E:/OWN/College/3-cource/OPI/2026.11.03/Manager_of_passwords/build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/Manager_of_password_lib.dir/build.make lib/CMakeFiles/Manager_of_password_lib.dir/src/Archive.cpp.obj
-.PHONY : src/Archive.cpp.obj
+src/Book.cpp.obj:
+	cd E:/OWN/College/3-cource/TA/Practic/Project_TA/build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/System_Booking_lib.dir/build.make lib/CMakeFiles/System_Booking_lib.dir/src/Book.cpp.obj
+.PHONY : src/Book.cpp.obj
 
-src/Archive.i: src/Archive.cpp.i
-.PHONY : src/Archive.i
+src/Book.i: src/Book.cpp.i
+.PHONY : src/Book.i
 
 # target to preprocess a source file
-src/Archive.cpp.i:
-	cd E:/OWN/College/3-cource/OPI/2026.11.03/Manager_of_passwords/build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/Manager_of_password_lib.dir/build.make lib/CMakeFiles/Manager_of_password_lib.dir/src/Archive.cpp.i
-.PHONY : src/Archive.cpp.i
+src/Book.cpp.i:
+	cd E:/OWN/College/3-cource/TA/Practic/Project_TA/build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/System_Booking_lib.dir/build.make lib/CMakeFiles/System_Booking_lib.dir/src/Book.cpp.i
+.PHONY : src/Book.cpp.i
 
-src/Archive.s: src/Archive.cpp.s
-.PHONY : src/Archive.s
+src/Book.s: src/Book.cpp.s
+.PHONY : src/Book.s
 
 # target to generate assembly for a file
-src/Archive.cpp.s:
-	cd E:/OWN/College/3-cource/OPI/2026.11.03/Manager_of_passwords/build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/Manager_of_password_lib.dir/build.make lib/CMakeFiles/Manager_of_password_lib.dir/src/Archive.cpp.s
-.PHONY : src/Archive.cpp.s
+src/Book.cpp.s:
+	cd E:/OWN/College/3-cource/TA/Practic/Project_TA/build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/System_Booking_lib.dir/build.make lib/CMakeFiles/System_Booking_lib.dir/src/Book.cpp.s
+.PHONY : src/Book.cpp.s
 
-src/Manager_Of_Passwords.obj: src/Manager_Of_Passwords.cpp.obj
-.PHONY : src/Manager_Of_Passwords.obj
+src/Client.obj: src/Client.cpp.obj
+.PHONY : src/Client.obj
 
 # target to build an object file
-src/Manager_Of_Passwords.cpp.obj:
-	cd E:/OWN/College/3-cource/OPI/2026.11.03/Manager_of_passwords/build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/Manager_of_password_lib.dir/build.make lib/CMakeFiles/Manager_of_password_lib.dir/src/Manager_Of_Passwords.cpp.obj
-.PHONY : src/Manager_Of_Passwords.cpp.obj
+src/Client.cpp.obj:
+	cd E:/OWN/College/3-cource/TA/Practic/Project_TA/build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/System_Booking_lib.dir/build.make lib/CMakeFiles/System_Booking_lib.dir/src/Client.cpp.obj
+.PHONY : src/Client.cpp.obj
 
-src/Manager_Of_Passwords.i: src/Manager_Of_Passwords.cpp.i
-.PHONY : src/Manager_Of_Passwords.i
+src/Client.i: src/Client.cpp.i
+.PHONY : src/Client.i
 
 # target to preprocess a source file
-src/Manager_Of_Passwords.cpp.i:
-	cd E:/OWN/College/3-cource/OPI/2026.11.03/Manager_of_passwords/build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/Manager_of_password_lib.dir/build.make lib/CMakeFiles/Manager_of_password_lib.dir/src/Manager_Of_Passwords.cpp.i
-.PHONY : src/Manager_Of_Passwords.cpp.i
+src/Client.cpp.i:
+	cd E:/OWN/College/3-cource/TA/Practic/Project_TA/build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/System_Booking_lib.dir/build.make lib/CMakeFiles/System_Booking_lib.dir/src/Client.cpp.i
+.PHONY : src/Client.cpp.i
 
-src/Manager_Of_Passwords.s: src/Manager_Of_Passwords.cpp.s
-.PHONY : src/Manager_Of_Passwords.s
+src/Client.s: src/Client.cpp.s
+.PHONY : src/Client.s
 
 # target to generate assembly for a file
-src/Manager_Of_Passwords.cpp.s:
-	cd E:/OWN/College/3-cource/OPI/2026.11.03/Manager_of_passwords/build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/Manager_of_password_lib.dir/build.make lib/CMakeFiles/Manager_of_password_lib.dir/src/Manager_Of_Passwords.cpp.s
-.PHONY : src/Manager_Of_Passwords.cpp.s
+src/Client.cpp.s:
+	cd E:/OWN/College/3-cource/TA/Practic/Project_TA/build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/System_Booking_lib.dir/build.make lib/CMakeFiles/System_Booking_lib.dir/src/Client.cpp.s
+.PHONY : src/Client.cpp.s
+
+src/DataBase.obj: src/DataBase.cpp.obj
+.PHONY : src/DataBase.obj
+
+# target to build an object file
+src/DataBase.cpp.obj:
+	cd E:/OWN/College/3-cource/TA/Practic/Project_TA/build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/System_Booking_lib.dir/build.make lib/CMakeFiles/System_Booking_lib.dir/src/DataBase.cpp.obj
+.PHONY : src/DataBase.cpp.obj
+
+src/DataBase.i: src/DataBase.cpp.i
+.PHONY : src/DataBase.i
+
+# target to preprocess a source file
+src/DataBase.cpp.i:
+	cd E:/OWN/College/3-cource/TA/Practic/Project_TA/build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/System_Booking_lib.dir/build.make lib/CMakeFiles/System_Booking_lib.dir/src/DataBase.cpp.i
+.PHONY : src/DataBase.cpp.i
+
+src/DataBase.s: src/DataBase.cpp.s
+.PHONY : src/DataBase.s
+
+# target to generate assembly for a file
+src/DataBase.cpp.s:
+	cd E:/OWN/College/3-cource/TA/Practic/Project_TA/build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/System_Booking_lib.dir/build.make lib/CMakeFiles/System_Booking_lib.dir/src/DataBase.cpp.s
+.PHONY : src/DataBase.cpp.s
+
+src/Libraries.obj: src/Libraries.cpp.obj
+.PHONY : src/Libraries.obj
+
+# target to build an object file
+src/Libraries.cpp.obj:
+	cd E:/OWN/College/3-cource/TA/Practic/Project_TA/build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/System_Booking_lib.dir/build.make lib/CMakeFiles/System_Booking_lib.dir/src/Libraries.cpp.obj
+.PHONY : src/Libraries.cpp.obj
+
+src/Libraries.i: src/Libraries.cpp.i
+.PHONY : src/Libraries.i
+
+# target to preprocess a source file
+src/Libraries.cpp.i:
+	cd E:/OWN/College/3-cource/TA/Practic/Project_TA/build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/System_Booking_lib.dir/build.make lib/CMakeFiles/System_Booking_lib.dir/src/Libraries.cpp.i
+.PHONY : src/Libraries.cpp.i
+
+src/Libraries.s: src/Libraries.cpp.s
+.PHONY : src/Libraries.s
+
+# target to generate assembly for a file
+src/Libraries.cpp.s:
+	cd E:/OWN/College/3-cource/TA/Practic/Project_TA/build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/System_Booking_lib.dir/build.make lib/CMakeFiles/System_Booking_lib.dir/src/Libraries.cpp.s
+.PHONY : src/Libraries.cpp.s
 
 # Help Target
 help:
@@ -210,16 +234,19 @@ help:
 	@echo "... depend"
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
-	@echo "... Manager_of_password_lib"
-	@echo "... src/Account.obj"
-	@echo "... src/Account.i"
-	@echo "... src/Account.s"
-	@echo "... src/Archive.obj"
-	@echo "... src/Archive.i"
-	@echo "... src/Archive.s"
-	@echo "... src/Manager_Of_Passwords.obj"
-	@echo "... src/Manager_Of_Passwords.i"
-	@echo "... src/Manager_Of_Passwords.s"
+	@echo "... System_Booking_lib"
+	@echo "... src/Book.obj"
+	@echo "... src/Book.i"
+	@echo "... src/Book.s"
+	@echo "... src/Client.obj"
+	@echo "... src/Client.i"
+	@echo "... src/Client.s"
+	@echo "... src/DataBase.obj"
+	@echo "... src/DataBase.i"
+	@echo "... src/DataBase.s"
+	@echo "... src/Libraries.obj"
+	@echo "... src/Libraries.i"
+	@echo "... src/Libraries.s"
 .PHONY : help
 
 
@@ -231,6 +258,6 @@ help:
 # No rule that depends on this can have commands that come from listfiles
 # because they might be regenerated.
 cmake_check_build_system:
-	cd E:/OWN/College/3-cource/OPI/2026.11.03/Manager_of_passwords/build && $(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 0
+	cd E:/OWN/College/3-cource/TA/Practic/Project_TA/build && $(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 0
 .PHONY : cmake_check_build_system
 
