@@ -197,5 +197,5 @@ CMakeFiles/System_Booking.dir/src/main.cpp.obj: \
  C:/w64devkit/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/numeric \
  C:/w64devkit/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_numeric.h \
  C:/w64devkit/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/pstl/glue_numeric_defs.h \
- E:/OWN/College/3-cource/TA/Practic/Project_TA/lib/include/Client.h \
- E:/OWN/College/3-cource/TA/Practic/Project_TA/lib/include/DataBase.h
+ E:/OWN/College/3-cource/TA/Practic/Project_TA/lib/include/User.h \
+ E:/OWN/College/3-cource/TA/Practic/Project_TA/lib/include/Conference.h

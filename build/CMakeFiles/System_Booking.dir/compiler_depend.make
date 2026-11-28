@@ -198,9 +198,9 @@ CMakeFiles/System_Booking.dir/src/main.cpp.obj: E:/OWN/College/3-cource/TA/Pract
   C:/w64devkit/x86_64-w64-mingw32/include/wchar.h \
   C:/w64devkit/x86_64-w64-mingw32/include/wctype.h \
   E:/OWN/College/3-cource/TA/Practic/Project_TA/lib/include/Book.h \
-  E:/OWN/College/3-cource/TA/Practic/Project_TA/lib/include/Client.h \
-  E:/OWN/College/3-cource/TA/Practic/Project_TA/lib/include/DataBase.h \
-  E:/OWN/College/3-cource/TA/Practic/Project_TA/lib/include/Libraries.h
+  E:/OWN/College/3-cource/TA/Practic/Project_TA/lib/include/Conference.h \
+  E:/OWN/College/3-cource/TA/Practic/Project_TA/lib/include/Libraries.h \
+  E:/OWN/College/3-cource/TA/Practic/Project_TA/lib/include/User.h
 
 
 C:/w64devkit/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_iterator_base_funcs.h:
@@ -597,8 +597,8 @@ C:/w64devkit/x86_64-w64-mingw32/include/vadefs.h:
 
 E:/OWN/College/3-cource/TA/Practic/Project_TA/lib/include/Book.h:
 
-E:/OWN/College/3-cource/TA/Practic/Project_TA/lib/include/Client.h:
-
-E:/OWN/College/3-cource/TA/Practic/Project_TA/lib/include/DataBase.h:
+E:/OWN/College/3-cource/TA/Practic/Project_TA/lib/include/Conference.h:
 
 E:/OWN/College/3-cource/TA/Practic/Project_TA/lib/include/Libraries.h:
+
+E:/OWN/College/3-cource/TA/Practic/Project_TA/lib/include/User.h:

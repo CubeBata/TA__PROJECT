@@ -1,12 +1,12 @@
 file(REMOVE_RECURSE
   "CMakeFiles/System_Booking_lib.dir/src/Book.cpp.obj"
   "CMakeFiles/System_Booking_lib.dir/src/Book.cpp.obj.d"
-  "CMakeFiles/System_Booking_lib.dir/src/Client.cpp.obj"
-  "CMakeFiles/System_Booking_lib.dir/src/Client.cpp.obj.d"
-  "CMakeFiles/System_Booking_lib.dir/src/DataBase.cpp.obj"
-  "CMakeFiles/System_Booking_lib.dir/src/DataBase.cpp.obj.d"
+  "CMakeFiles/System_Booking_lib.dir/src/Conference.cpp.obj"
+  "CMakeFiles/System_Booking_lib.dir/src/Conference.cpp.obj.d"
   "CMakeFiles/System_Booking_lib.dir/src/Libraries.cpp.obj"
   "CMakeFiles/System_Booking_lib.dir/src/Libraries.cpp.obj.d"
+  "CMakeFiles/System_Booking_lib.dir/src/User.cpp.obj"
+  "CMakeFiles/System_Booking_lib.dir/src/User.cpp.obj.d"
   "libSystem_Booking_lib.a"
   "libSystem_Booking_lib.pdb"
 )

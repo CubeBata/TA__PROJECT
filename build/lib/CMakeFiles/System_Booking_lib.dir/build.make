@@ -87,41 +87,26 @@ lib/CMakeFiles/System_Booking_lib.dir/src/Book.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/System_Booking_lib.dir/src/Book.cpp.s"
 	cd E:/OWN/College/3-cource/TA/Practic/Project_TA/build/lib && C:/w64devkit/bin/g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S E:/OWN/College/3-cource/TA/Practic/Project_TA/lib/src/Book.cpp -o CMakeFiles/System_Booking_lib.dir/src/Book.cpp.s
 
-lib/CMakeFiles/System_Booking_lib.dir/src/Client.cpp.obj: lib/CMakeFiles/System_Booking_lib.dir/flags.make
-lib/CMakeFiles/System_Booking_lib.dir/src/Client.cpp.obj: lib/CMakeFiles/System_Booking_lib.dir/includes_CXX.rsp
-lib/CMakeFiles/System_Booking_lib.dir/src/Client.cpp.obj: E:/OWN/College/3-cource/TA/Practic/Project_TA/lib/src/Client.cpp
-lib/CMakeFiles/System_Booking_lib.dir/src/Client.cpp.obj: lib/CMakeFiles/System_Booking_lib.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=E:/OWN/College/3-cource/TA/Practic/Project_TA/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object lib/CMakeFiles/System_Booking_lib.dir/src/Client.cpp.obj"
-	cd E:/OWN/College/3-cource/TA/Practic/Project_TA/build/lib && C:/w64devkit/bin/g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT lib/CMakeFiles/System_Booking_lib.dir/src/Client.cpp.obj -MF CMakeFiles/System_Booking_lib.dir/src/Client.cpp.obj.d -o CMakeFiles/System_Booking_lib.dir/src/Client.cpp.obj -c E:/OWN/College/3-cource/TA/Practic/Project_TA/lib/src/Client.cpp
+lib/CMakeFiles/System_Booking_lib.dir/src/Conference.cpp.obj: lib/CMakeFiles/System_Booking_lib.dir/flags.make
+lib/CMakeFiles/System_Booking_lib.dir/src/Conference.cpp.obj: lib/CMakeFiles/System_Booking_lib.dir/includes_CXX.rsp
+lib/CMakeFiles/System_Booking_lib.dir/src/Conference.cpp.obj: E:/OWN/College/3-cource/TA/Practic/Project_TA/lib/src/Conference.cpp
+lib/CMakeFiles/System_Booking_lib.dir/src/Conference.cpp.obj: lib/CMakeFiles/System_Booking_lib.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=E:/OWN/College/3-cource/TA/Practic/Project_TA/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object lib/CMakeFiles/System_Booking_lib.dir/src/Conference.cpp.obj"
+	cd E:/OWN/College/3-cource/TA/Practic/Project_TA/build/lib && C:/w64devkit/bin/g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT lib/CMakeFiles/System_Booking_lib.dir/src/Conference.cpp.obj -MF CMakeFiles/System_Booking_lib.dir/src/Conference.cpp.obj.d -o CMakeFiles/System_Booking_lib.dir/src/Conference.cpp.obj -c E:/OWN/College/3-cource/TA/Practic/Project_TA/lib/src/Conference.cpp
 
-lib/CMakeFiles/System_Booking_lib.dir/src/Client.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/System_Booking_lib.dir/src/Client.cpp.i"
-	cd E:/OWN/College/3-cource/TA/Practic/Project_TA/build/lib && C:/w64devkit/bin/g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E E:/OWN/College/3-cource/TA/Practic/Project_TA/lib/src/Client.cpp > CMakeFiles/System_Booking_lib.dir/src/Client.cpp.i
+lib/CMakeFiles/System_Booking_lib.dir/src/Conference.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/System_Booking_lib.dir/src/Conference.cpp.i"
+	cd E:/OWN/College/3-cource/TA/Practic/Project_TA/build/lib && C:/w64devkit/bin/g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E E:/OWN/College/3-cource/TA/Practic/Project_TA/lib/src/Conference.cpp > CMakeFiles/System_Booking_lib.dir/src/Conference.cpp.i
 
-lib/CMakeFiles/System_Booking_lib.dir/src/Client.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/System_Booking_lib.dir/src/Client.cpp.s"
-	cd E:/OWN/College/3-cource/TA/Practic/Project_TA/build/lib && C:/w64devkit/bin/g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S E:/OWN/College/3-cource/TA/Practic/Project_TA/lib/src/Client.cpp -o CMakeFiles/System_Booking_lib.dir/src/Client.cpp.s
-
-lib/CMakeFiles/System_Booking_lib.dir/src/DataBase.cpp.obj: lib/CMakeFiles/System_Booking_lib.dir/flags.make
-lib/CMakeFiles/System_Booking_lib.dir/src/DataBase.cpp.obj: lib/CMakeFiles/System_Booking_lib.dir/includes_CXX.rsp
-lib/CMakeFiles/System_Booking_lib.dir/src/DataBase.cpp.obj: E:/OWN/College/3-cource/TA/Practic/Project_TA/lib/src/DataBase.cpp
-lib/CMakeFiles/System_Booking_lib.dir/src/DataBase.cpp.obj: lib/CMakeFiles/System_Booking_lib.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=E:/OWN/College/3-cource/TA/Practic/Project_TA/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object lib/CMakeFiles/System_Booking_lib.dir/src/DataBase.cpp.obj"
-	cd E:/OWN/College/3-cource/TA/Practic/Project_TA/build/lib && C:/w64devkit/bin/g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT lib/CMakeFiles/System_Booking_lib.dir/src/DataBase.cpp.obj -MF CMakeFiles/System_Booking_lib.dir/src/DataBase.cpp.obj.d -o CMakeFiles/System_Booking_lib.dir/src/DataBase.cpp.obj -c E:/OWN/College/3-cource/TA/Practic/Project_TA/lib/src/DataBase.cpp
-
-lib/CMakeFiles/System_Booking_lib.dir/src/DataBase.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/System_Booking_lib.dir/src/DataBase.cpp.i"
-	cd E:/OWN/College/3-cource/TA/Practic/Project_TA/build/lib && C:/w64devkit/bin/g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E E:/OWN/College/3-cource/TA/Practic/Project_TA/lib/src/DataBase.cpp > CMakeFiles/System_Booking_lib.dir/src/DataBase.cpp.i
-
-lib/CMakeFiles/System_Booking_lib.dir/src/DataBase.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/System_Booking_lib.dir/src/DataBase.cpp.s"
-	cd E:/OWN/College/3-cource/TA/Practic/Project_TA/build/lib && C:/w64devkit/bin/g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S E:/OWN/College/3-cource/TA/Practic/Project_TA/lib/src/DataBase.cpp -o CMakeFiles/System_Booking_lib.dir/src/DataBase.cpp.s
+lib/CMakeFiles/System_Booking_lib.dir/src/Conference.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/System_Booking_lib.dir/src/Conference.cpp.s"
+	cd E:/OWN/College/3-cource/TA/Practic/Project_TA/build/lib && C:/w64devkit/bin/g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S E:/OWN/College/3-cource/TA/Practic/Project_TA/lib/src/Conference.cpp -o CMakeFiles/System_Booking_lib.dir/src/Conference.cpp.s
 
 lib/CMakeFiles/System_Booking_lib.dir/src/Libraries.cpp.obj: lib/CMakeFiles/System_Booking_lib.dir/flags.make
 lib/CMakeFiles/System_Booking_lib.dir/src/Libraries.cpp.obj: lib/CMakeFiles/System_Booking_lib.dir/includes_CXX.rsp
 lib/CMakeFiles/System_Booking_lib.dir/src/Libraries.cpp.obj: E:/OWN/College/3-cource/TA/Practic/Project_TA/lib/src/Libraries.cpp
 lib/CMakeFiles/System_Booking_lib.dir/src/Libraries.cpp.obj: lib/CMakeFiles/System_Booking_lib.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=E:/OWN/College/3-cource/TA/Practic/Project_TA/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object lib/CMakeFiles/System_Booking_lib.dir/src/Libraries.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=E:/OWN/College/3-cource/TA/Practic/Project_TA/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object lib/CMakeFiles/System_Booking_lib.dir/src/Libraries.cpp.obj"
 	cd E:/OWN/College/3-cource/TA/Practic/Project_TA/build/lib && C:/w64devkit/bin/g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT lib/CMakeFiles/System_Booking_lib.dir/src/Libraries.cpp.obj -MF CMakeFiles/System_Booking_lib.dir/src/Libraries.cpp.obj.d -o CMakeFiles/System_Booking_lib.dir/src/Libraries.cpp.obj -c E:/OWN/College/3-cource/TA/Practic/Project_TA/lib/src/Libraries.cpp
 
 lib/CMakeFiles/System_Booking_lib.dir/src/Libraries.cpp.i: cmake_force
@@ -132,20 +117,35 @@ lib/CMakeFiles/System_Booking_lib.dir/src/Libraries.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/System_Booking_lib.dir/src/Libraries.cpp.s"
 	cd E:/OWN/College/3-cource/TA/Practic/Project_TA/build/lib && C:/w64devkit/bin/g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S E:/OWN/College/3-cource/TA/Practic/Project_TA/lib/src/Libraries.cpp -o CMakeFiles/System_Booking_lib.dir/src/Libraries.cpp.s
 
+lib/CMakeFiles/System_Booking_lib.dir/src/User.cpp.obj: lib/CMakeFiles/System_Booking_lib.dir/flags.make
+lib/CMakeFiles/System_Booking_lib.dir/src/User.cpp.obj: lib/CMakeFiles/System_Booking_lib.dir/includes_CXX.rsp
+lib/CMakeFiles/System_Booking_lib.dir/src/User.cpp.obj: E:/OWN/College/3-cource/TA/Practic/Project_TA/lib/src/User.cpp
+lib/CMakeFiles/System_Booking_lib.dir/src/User.cpp.obj: lib/CMakeFiles/System_Booking_lib.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=E:/OWN/College/3-cource/TA/Practic/Project_TA/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object lib/CMakeFiles/System_Booking_lib.dir/src/User.cpp.obj"
+	cd E:/OWN/College/3-cource/TA/Practic/Project_TA/build/lib && C:/w64devkit/bin/g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT lib/CMakeFiles/System_Booking_lib.dir/src/User.cpp.obj -MF CMakeFiles/System_Booking_lib.dir/src/User.cpp.obj.d -o CMakeFiles/System_Booking_lib.dir/src/User.cpp.obj -c E:/OWN/College/3-cource/TA/Practic/Project_TA/lib/src/User.cpp
+
+lib/CMakeFiles/System_Booking_lib.dir/src/User.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/System_Booking_lib.dir/src/User.cpp.i"
+	cd E:/OWN/College/3-cource/TA/Practic/Project_TA/build/lib && C:/w64devkit/bin/g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E E:/OWN/College/3-cource/TA/Practic/Project_TA/lib/src/User.cpp > CMakeFiles/System_Booking_lib.dir/src/User.cpp.i
+
+lib/CMakeFiles/System_Booking_lib.dir/src/User.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/System_Booking_lib.dir/src/User.cpp.s"
+	cd E:/OWN/College/3-cource/TA/Practic/Project_TA/build/lib && C:/w64devkit/bin/g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S E:/OWN/College/3-cource/TA/Practic/Project_TA/lib/src/User.cpp -o CMakeFiles/System_Booking_lib.dir/src/User.cpp.s
+
 # Object files for target System_Booking_lib
 System_Booking_lib_OBJECTS = \
 "CMakeFiles/System_Booking_lib.dir/src/Book.cpp.obj" \
-"CMakeFiles/System_Booking_lib.dir/src/Client.cpp.obj" \
-"CMakeFiles/System_Booking_lib.dir/src/DataBase.cpp.obj" \
-"CMakeFiles/System_Booking_lib.dir/src/Libraries.cpp.obj"
+"CMakeFiles/System_Booking_lib.dir/src/Conference.cpp.obj" \
+"CMakeFiles/System_Booking_lib.dir/src/Libraries.cpp.obj" \
+"CMakeFiles/System_Booking_lib.dir/src/User.cpp.obj"
 
 # External object files for target System_Booking_lib
 System_Booking_lib_EXTERNAL_OBJECTS =
 
 lib/libSystem_Booking_lib.a: lib/CMakeFiles/System_Booking_lib.dir/src/Book.cpp.obj
-lib/libSystem_Booking_lib.a: lib/CMakeFiles/System_Booking_lib.dir/src/Client.cpp.obj
-lib/libSystem_Booking_lib.a: lib/CMakeFiles/System_Booking_lib.dir/src/DataBase.cpp.obj
+lib/libSystem_Booking_lib.a: lib/CMakeFiles/System_Booking_lib.dir/src/Conference.cpp.obj
 lib/libSystem_Booking_lib.a: lib/CMakeFiles/System_Booking_lib.dir/src/Libraries.cpp.obj
+lib/libSystem_Booking_lib.a: lib/CMakeFiles/System_Booking_lib.dir/src/User.cpp.obj
 lib/libSystem_Booking_lib.a: lib/CMakeFiles/System_Booking_lib.dir/build.make
 lib/libSystem_Booking_lib.a: lib/CMakeFiles/System_Booking_lib.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=E:/OWN/College/3-cource/TA/Practic/Project_TA/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Linking CXX static library libSystem_Booking_lib.a"

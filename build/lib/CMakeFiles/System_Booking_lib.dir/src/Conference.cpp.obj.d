@@ -1,6 +1,7 @@
-lib/CMakeFiles/System_Booking_lib.dir/src/Client.cpp.obj: \
- E:\OWN\College\3-cource\TA\Practic\Project_TA\lib\src\Client.cpp \
- E:/OWN/College/3-cource/TA/Practic/Project_TA/lib/include/Client.h \
+lib/CMakeFiles/System_Booking_lib.dir/src/Conference.cpp.obj: \
+ E:/OWN/College/3-cource/TA/Practic/Project_TA/lib/src/Conference.cpp \
+ E:/OWN/College/3-cource/TA/Practic/Project_TA/lib/include/Conference.h \
+ E:/OWN/College/3-cource/TA/Practic/Project_TA/lib/include/User.h \
  E:/OWN/College/3-cource/TA/Practic/Project_TA/lib/include/Libraries.h \
  C:/w64devkit/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/iostream \
  C:/w64devkit/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/requires_hosted.h \
@@ -196,5 +197,4 @@ lib/CMakeFiles/System_Booking_lib.dir/src/Client.cpp.obj: \
  C:/w64devkit/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/random.tcc \
  C:/w64devkit/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/numeric \
  C:/w64devkit/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_numeric.h \
- C:/w64devkit/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/pstl/glue_numeric_defs.h \
- E:/OWN/College/3-cource/TA/Practic/Project_TA/lib/include/DataBase.h
+ C:/w64devkit/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/pstl/glue_numeric_defs.h

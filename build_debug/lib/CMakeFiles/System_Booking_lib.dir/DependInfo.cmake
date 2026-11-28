@@ -9,9 +9,9 @@ set(CMAKE_DEPENDS_LANGUAGES
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "E:/OWN/College/3-cource/TA/Practic/Project_TA/lib/src/Book.cpp" "lib/CMakeFiles/System_Booking_lib.dir/src/Book.cpp.obj" "gcc" "lib/CMakeFiles/System_Booking_lib.dir/src/Book.cpp.obj.d"
-  "E:/OWN/College/3-cource/TA/Practic/Project_TA/lib/src/Client.cpp" "lib/CMakeFiles/System_Booking_lib.dir/src/Client.cpp.obj" "gcc" "lib/CMakeFiles/System_Booking_lib.dir/src/Client.cpp.obj.d"
-  "E:/OWN/College/3-cource/TA/Practic/Project_TA/lib/src/DataBase.cpp" "lib/CMakeFiles/System_Booking_lib.dir/src/DataBase.cpp.obj" "gcc" "lib/CMakeFiles/System_Booking_lib.dir/src/DataBase.cpp.obj.d"
+  "E:/OWN/College/3-cource/TA/Practic/Project_TA/lib/src/Conference.cpp" "lib/CMakeFiles/System_Booking_lib.dir/src/Conference.cpp.obj" "gcc" "lib/CMakeFiles/System_Booking_lib.dir/src/Conference.cpp.obj.d"
   "E:/OWN/College/3-cource/TA/Practic/Project_TA/lib/src/Libraries.cpp" "lib/CMakeFiles/System_Booking_lib.dir/src/Libraries.cpp.obj" "gcc" "lib/CMakeFiles/System_Booking_lib.dir/src/Libraries.cpp.obj.d"
+  "E:/OWN/College/3-cource/TA/Practic/Project_TA/lib/src/User.cpp" "lib/CMakeFiles/System_Booking_lib.dir/src/User.cpp.obj" "gcc" "lib/CMakeFiles/System_Booking_lib.dir/src/User.cpp.obj.d"
   )
 
 # Targets to which this target links which contain Fortran sources.

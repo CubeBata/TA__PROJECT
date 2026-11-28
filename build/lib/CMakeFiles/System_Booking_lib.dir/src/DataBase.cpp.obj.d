@@ -1,7 +1,7 @@
-lib/CMakeFiles/System_Booking_lib.dir/src/DataBase.cpp.obj: \
- E:/OWN/College/3-cource/TA/Practic/Project_TA/lib/src/DataBase.cpp \
- E:/OWN/College/3-cource/TA/Practic/Project_TA/lib/include/DataBase.h \
- E:/OWN/College/3-cource/TA/Practic/Project_TA/lib/include/Client.h \
+lib/CMakeFiles/System_Booking_lib.dir/src/Conference.cpp.obj: \
+ E:/OWN/College/3-cource/TA/Practic/Project_TA/lib/src/Conference.cpp \
+ E:/OWN/College/3-cource/TA/Practic/Project_TA/lib/include/Conference.h \
+ E:/OWN/College/3-cource/TA/Practic/Project_TA/lib/include/User.h \
  E:/OWN/College/3-cource/TA/Practic/Project_TA/lib/include/Libraries.h \
  C:/w64devkit/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/iostream \
  C:/w64devkit/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/requires_hosted.h \

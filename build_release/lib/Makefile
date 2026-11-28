@@ -153,53 +153,29 @@ src/Book.cpp.s:
 	cd /d E:\OWN\College\3-cource\TA\Practic\Project_TA\build_release && $(MAKE) $(MAKESILENT) -f lib\CMakeFiles\System_Booking_lib.dir\build.make lib/CMakeFiles/System_Booking_lib.dir/src/Book.cpp.s
 .PHONY : src/Book.cpp.s
 
-src/Client.obj: src/Client.cpp.obj
-.PHONY : src/Client.obj
+src/Conference.obj: src/Conference.cpp.obj
+.PHONY : src/Conference.obj
 
 # target to build an object file
-src/Client.cpp.obj:
-	cd /d E:\OWN\College\3-cource\TA\Practic\Project_TA\build_release && $(MAKE) $(MAKESILENT) -f lib\CMakeFiles\System_Booking_lib.dir\build.make lib/CMakeFiles/System_Booking_lib.dir/src/Client.cpp.obj
-.PHONY : src/Client.cpp.obj
+src/Conference.cpp.obj:
+	cd /d E:\OWN\College\3-cource\TA\Practic\Project_TA\build_release && $(MAKE) $(MAKESILENT) -f lib\CMakeFiles\System_Booking_lib.dir\build.make lib/CMakeFiles/System_Booking_lib.dir/src/Conference.cpp.obj
+.PHONY : src/Conference.cpp.obj
 
-src/Client.i: src/Client.cpp.i
-.PHONY : src/Client.i
-
-# target to preprocess a source file
-src/Client.cpp.i:
-	cd /d E:\OWN\College\3-cource\TA\Practic\Project_TA\build_release && $(MAKE) $(MAKESILENT) -f lib\CMakeFiles\System_Booking_lib.dir\build.make lib/CMakeFiles/System_Booking_lib.dir/src/Client.cpp.i
-.PHONY : src/Client.cpp.i
-
-src/Client.s: src/Client.cpp.s
-.PHONY : src/Client.s
-
-# target to generate assembly for a file
-src/Client.cpp.s:
-	cd /d E:\OWN\College\3-cource\TA\Practic\Project_TA\build_release && $(MAKE) $(MAKESILENT) -f lib\CMakeFiles\System_Booking_lib.dir\build.make lib/CMakeFiles/System_Booking_lib.dir/src/Client.cpp.s
-.PHONY : src/Client.cpp.s
-
-src/DataBase.obj: src/DataBase.cpp.obj
-.PHONY : src/DataBase.obj
-
-# target to build an object file
-src/DataBase.cpp.obj:
-	cd /d E:\OWN\College\3-cource\TA\Practic\Project_TA\build_release && $(MAKE) $(MAKESILENT) -f lib\CMakeFiles\System_Booking_lib.dir\build.make lib/CMakeFiles/System_Booking_lib.dir/src/DataBase.cpp.obj
-.PHONY : src/DataBase.cpp.obj
-
-src/DataBase.i: src/DataBase.cpp.i
-.PHONY : src/DataBase.i
+src/Conference.i: src/Conference.cpp.i
+.PHONY : src/Conference.i
 
 # target to preprocess a source file
-src/DataBase.cpp.i:
-	cd /d E:\OWN\College\3-cource\TA\Practic\Project_TA\build_release && $(MAKE) $(MAKESILENT) -f lib\CMakeFiles\System_Booking_lib.dir\build.make lib/CMakeFiles/System_Booking_lib.dir/src/DataBase.cpp.i
-.PHONY : src/DataBase.cpp.i
+src/Conference.cpp.i:
+	cd /d E:\OWN\College\3-cource\TA\Practic\Project_TA\build_release && $(MAKE) $(MAKESILENT) -f lib\CMakeFiles\System_Booking_lib.dir\build.make lib/CMakeFiles/System_Booking_lib.dir/src/Conference.cpp.i
+.PHONY : src/Conference.cpp.i
 
-src/DataBase.s: src/DataBase.cpp.s
-.PHONY : src/DataBase.s
+src/Conference.s: src/Conference.cpp.s
+.PHONY : src/Conference.s
 
 # target to generate assembly for a file
-src/DataBase.cpp.s:
-	cd /d E:\OWN\College\3-cource\TA\Practic\Project_TA\build_release && $(MAKE) $(MAKESILENT) -f lib\CMakeFiles\System_Booking_lib.dir\build.make lib/CMakeFiles/System_Booking_lib.dir/src/DataBase.cpp.s
-.PHONY : src/DataBase.cpp.s
+src/Conference.cpp.s:
+	cd /d E:\OWN\College\3-cource\TA\Practic\Project_TA\build_release && $(MAKE) $(MAKESILENT) -f lib\CMakeFiles\System_Booking_lib.dir\build.make lib/CMakeFiles/System_Booking_lib.dir/src/Conference.cpp.s
+.PHONY : src/Conference.cpp.s
 
 src/Libraries.obj: src/Libraries.cpp.obj
 .PHONY : src/Libraries.obj
@@ -225,6 +201,30 @@ src/Libraries.cpp.s:
 	cd /d E:\OWN\College\3-cource\TA\Practic\Project_TA\build_release && $(MAKE) $(MAKESILENT) -f lib\CMakeFiles\System_Booking_lib.dir\build.make lib/CMakeFiles/System_Booking_lib.dir/src/Libraries.cpp.s
 .PHONY : src/Libraries.cpp.s
 
+src/User.obj: src/User.cpp.obj
+.PHONY : src/User.obj
+
+# target to build an object file
+src/User.cpp.obj:
+	cd /d E:\OWN\College\3-cource\TA\Practic\Project_TA\build_release && $(MAKE) $(MAKESILENT) -f lib\CMakeFiles\System_Booking_lib.dir\build.make lib/CMakeFiles/System_Booking_lib.dir/src/User.cpp.obj
+.PHONY : src/User.cpp.obj
+
+src/User.i: src/User.cpp.i
+.PHONY : src/User.i
+
+# target to preprocess a source file
+src/User.cpp.i:
+	cd /d E:\OWN\College\3-cource\TA\Practic\Project_TA\build_release && $(MAKE) $(MAKESILENT) -f lib\CMakeFiles\System_Booking_lib.dir\build.make lib/CMakeFiles/System_Booking_lib.dir/src/User.cpp.i
+.PHONY : src/User.cpp.i
+
+src/User.s: src/User.cpp.s
+.PHONY : src/User.s
+
+# target to generate assembly for a file
+src/User.cpp.s:
+	cd /d E:\OWN\College\3-cource\TA\Practic\Project_TA\build_release && $(MAKE) $(MAKESILENT) -f lib\CMakeFiles\System_Booking_lib.dir\build.make lib/CMakeFiles/System_Booking_lib.dir/src/User.cpp.s
+.PHONY : src/User.cpp.s
+
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -237,15 +237,15 @@ help:
 	@echo ... src/Book.obj
 	@echo ... src/Book.i
 	@echo ... src/Book.s
-	@echo ... src/Client.obj
-	@echo ... src/Client.i
-	@echo ... src/Client.s
-	@echo ... src/DataBase.obj
-	@echo ... src/DataBase.i
-	@echo ... src/DataBase.s
+	@echo ... src/Conference.obj
+	@echo ... src/Conference.i
+	@echo ... src/Conference.s
 	@echo ... src/Libraries.obj
 	@echo ... src/Libraries.i
 	@echo ... src/Libraries.s
+	@echo ... src/User.obj
+	@echo ... src/User.i
+	@echo ... src/User.s
 .PHONY : help
 
 

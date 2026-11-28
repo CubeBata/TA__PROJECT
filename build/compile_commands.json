@@ -13,20 +13,20 @@
 },
 {
   "directory": "E:/OWN/College/3-cource/TA/Practic/Project_TA/build/lib",
-  "command": "C:/w64devkit/bin/g++.exe  @CMakeFiles/System_Booking_lib.dir/includes_CXX.rsp -O3 -DNDEBUG -o CMakeFiles/System_Booking_lib.dir/src/Client.cpp.obj -c E:/OWN/College/3-cource/TA/Practic/Project_TA/lib/src/Client.cpp",
-  "file": "E:/OWN/College/3-cource/TA/Practic/Project_TA/lib/src/Client.cpp",
-  "output": "lib/CMakeFiles/System_Booking_lib.dir/src/Client.cpp.obj"
-},
-{
-  "directory": "E:/OWN/College/3-cource/TA/Practic/Project_TA/build/lib",
-  "command": "C:/w64devkit/bin/g++.exe  @CMakeFiles/System_Booking_lib.dir/includes_CXX.rsp -O3 -DNDEBUG -o CMakeFiles/System_Booking_lib.dir/src/DataBase.cpp.obj -c E:/OWN/College/3-cource/TA/Practic/Project_TA/lib/src/DataBase.cpp",
-  "file": "E:/OWN/College/3-cource/TA/Practic/Project_TA/lib/src/DataBase.cpp",
-  "output": "lib/CMakeFiles/System_Booking_lib.dir/src/DataBase.cpp.obj"
+  "command": "C:/w64devkit/bin/g++.exe  @CMakeFiles/System_Booking_lib.dir/includes_CXX.rsp -O3 -DNDEBUG -o CMakeFiles/System_Booking_lib.dir/src/Conference.cpp.obj -c E:/OWN/College/3-cource/TA/Practic/Project_TA/lib/src/Conference.cpp",
+  "file": "E:/OWN/College/3-cource/TA/Practic/Project_TA/lib/src/Conference.cpp",
+  "output": "lib/CMakeFiles/System_Booking_lib.dir/src/Conference.cpp.obj"
 },
 {
   "directory": "E:/OWN/College/3-cource/TA/Practic/Project_TA/build/lib",
   "command": "C:/w64devkit/bin/g++.exe  @CMakeFiles/System_Booking_lib.dir/includes_CXX.rsp -O3 -DNDEBUG -o CMakeFiles/System_Booking_lib.dir/src/Libraries.cpp.obj -c E:/OWN/College/3-cource/TA/Practic/Project_TA/lib/src/Libraries.cpp",
   "file": "E:/OWN/College/3-cource/TA/Practic/Project_TA/lib/src/Libraries.cpp",
   "output": "lib/CMakeFiles/System_Booking_lib.dir/src/Libraries.cpp.obj"
+},
+{
+  "directory": "E:/OWN/College/3-cource/TA/Practic/Project_TA/build/lib",
+  "command": "C:/w64devkit/bin/g++.exe  @CMakeFiles/System_Booking_lib.dir/includes_CXX.rsp -O3 -DNDEBUG -o CMakeFiles/System_Booking_lib.dir/src/User.cpp.obj -c E:/OWN/College/3-cource/TA/Practic/Project_TA/lib/src/User.cpp",
+  "file": "E:/OWN/College/3-cource/TA/Practic/Project_TA/lib/src/User.cpp",
+  "output": "lib/CMakeFiles/System_Booking_lib.dir/src/User.cpp.obj"
 }
 ]
